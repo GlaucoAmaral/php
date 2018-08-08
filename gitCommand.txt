@@ -1,6 +1,5 @@
 git clone "link" -> clonar o projeto que esta na master
 
-
 git init -> iniciar repositorio
 
 git add nomeArquivo -> coloca na stage area(area de espera, antes de mandar pro servidor)
@@ -23,4 +22,6 @@ git config --global user.email "mesmoemaildogithub"
 git push origin master -> para mandar pro servidor.
 
 git pull origin master -> atualizar a branch que está desatualizada.
+
+Estes são os comandos básicos para serem utilizados ao longo das aulas.
 
