@@ -35,7 +35,7 @@ git log -> saber o log das edicoes nas branch
 
 git checkout nomebranch -> para mudar para a branch que quero 
 
-Isso é uma modificacao na branch nova criada
+Isso eh uma modificacao na branch nova criada
 
 git merge branch_nome -> para juntar a branch com a master
 
@@ -43,4 +43,4 @@ git branch -d nomebranch -> para deletar uma branch LOCALMENTE
 
 git push <nome do origin> <nome do branch> --delete -> para apagar 
 REMOTAMENTE
-**temos sempre que deletar localmente e também remotamente"**
+**temos sempre que deletar localmente e tambem remotamente"**
