@@ -25,3 +25,7 @@ git pull origin master -> atualizar a branch que está desatualizada.
 
 Estes são os comandos básicos para serem utilizados ao longo das aulas.
 
+git checkout -b nomebranch -> para criar a branch
+
+
+Isso Ã© uma modificacao na branch nova criada
