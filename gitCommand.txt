@@ -39,3 +39,4 @@ Isso é uma modificacao na branch nova criada
 
 git merge branch_nome -> para juntar a branch com a master
 
+git branch -d nomebranch -> para deletar uma branch
