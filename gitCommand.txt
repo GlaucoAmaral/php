@@ -20,7 +20,6 @@ git config --global user.name "SeuNome"
 
 git config --global user.email "mesmoemaildogithub"
 
-git push -f origin master -> caso de erro no primeiro envio.
 git push origin master -> para mandar pro servidor.
 
 git pull origin master -> atualizar a branch que está desatualizada.
