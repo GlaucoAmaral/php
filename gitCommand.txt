@@ -27,5 +27,12 @@ Estes são os comandos básicos para serem utilizados ao longo das aulas.
 
 git checkout -b nomebranch -> para criar a branch
 
+git status
+
+git branch
+
+git log -> saber o log das edicoes nas branch
+
+git checkout nomebranch -> para mudar para a branch que quero 
 
 Isso Ã© uma modificacao na branch nova criada
