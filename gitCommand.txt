@@ -45,4 +45,4 @@ git push <nome do origin> <nome do branch> --delete -> para apagar
 REMOTAMENTE
 **temos sempre que deletar localmente e tambem remotamente"**
 
-ediit
+ediikiit
