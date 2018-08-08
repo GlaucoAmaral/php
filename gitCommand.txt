@@ -43,5 +43,4 @@ git branch -d nomebranch -> para deletar uma branch LOCALMENTE
 
 git push <nome do origin> <nome do branch> --delete -> para apagar 
 REMOTAMENTE
-
-toba
+**temos sempre que deletar localmente e também remotamente"**
