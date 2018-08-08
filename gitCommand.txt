@@ -3,7 +3,22 @@ git clone "link" -> clonar o projeto que esta na master
 
 git init -> iniciar repositorio
 
-git add "nomeArquivo" -> coloca na stage area(area de espera)
+git add nomeArquivo -> coloca na stage area(area de espera, antes de mandar pro servidor)
 
+**Sempre adiciono na stage area e dps commit**
+git add --all -> todos arquivos com as alteracoes
 
+git commit -m "mensagem" -> Confirmar as alterações. -até aqui é tudo local.
 
+criar o repositorio no github
+
+git remote add origin(variavel) endereco -> adicionar o endereco do repositorio no servidor
+
+->Global somente na primeira vez. Depois apenas uma só.
+
+git config --global user.name "SeuNome"
+
+git config --global user.email "mesmoemaildogithub"
+
+git push -f origin master -> caso de erro no primeiro envio.
+git push origin master -> para mandar pro servidor
