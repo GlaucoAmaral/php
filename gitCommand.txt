@@ -36,3 +36,6 @@ git log -> saber o log das edicoes nas branch
 git checkout nomebranch -> para mudar para a branch que quero 
 
 Isso é uma modificacao na branch nova criada
+
+git merge branch_nome -> para juntar a branch com a master
+
