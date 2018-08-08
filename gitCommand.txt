@@ -23,13 +23,13 @@ git push origin master -> para mandar pro servidor.
 
 git pull origin master -> atualizar a branch que está desatualizada.
 
-Estes são os comandos básicos para serem utilizados ao longo das aulas.
+Estes sao os comandos básicos para serem utilizados ao longo das aulas.
 
 git checkout -b nomebranch -> para criar a branch
 
-git status
+git status -> para saber como esta o status do dir local
 
-git branch
+git branch -> para saber as branchs que existem
 
 git log -> saber o log das edicoes nas branch
 
